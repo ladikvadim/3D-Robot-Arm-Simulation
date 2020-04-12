@@ -1,4 +1,4 @@
-## 3D Robot Arm Simulation
+## 5DOF Robot Arm Simulation
 
 <p align="center">
   <img src="https://github.com/ladikvadim/3D-Robot-Arm-Simulation/blob/master/support/manipulator3D.PNG">
